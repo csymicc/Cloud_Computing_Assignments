@@ -1,0 +1,6 @@
+File in source code
+PR.java uses original Map-Reduce approach to do pageRank
+FindU.java gets the university rank and alumni rank
+PR.jar includes all source files in maven project
+
+GraphX dir contains scala codes which uses graphX to do pageRank 
