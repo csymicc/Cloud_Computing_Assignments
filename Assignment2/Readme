@@ -1,4 +1,6 @@
 File in source code
+
+MR dir contains java codes which uses original Map_reduce appraoch
 PR.java uses original Map-Reduce approach to do pageRank
 FindU.java gets the university rank and alumni rank
 PR.jar includes all source files in maven project
